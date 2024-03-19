@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 8f09ea83cf3d6d9b8bc7b3de7e9932bbe32952c9 lmlnilse <lmlnilse@stud.ntnu.no> 1678107694 +0100	branch: Created from HEAD
+8f09ea83cf3d6d9b8bc7b3de7e9932bbe32952c9 44a30e28e44e02a2360a080f2885d14b9b3d3148 lmlnilse <lmlnilse@stud.ntnu.no> 1678107966 +0100	commit: Fix bug in methode testCalculate in class CalculatorResourceTest.
+44a30e28e44e02a2360a080f2885d14b9b3d3148 6ba439d17b4e31eeb91f521a0c80251bb2a41320 lmlnilse <lmlnilse@stud.ntnu.no> 1678109194 +0100	commit: Added IP adress to VM in Database class
+6ba439d17b4e31eeb91f521a0c80251bb2a41320 2dcd4079ce2fa42510a50c76298516eb970172e5 lmlnilse <lmlnilse@stud.ntnu.no> 1678113067 +0100	pull --no-stat -v --progress origin master: Fast-forward
+2dcd4079ce2fa42510a50c76298516eb970172e5 de1ff6014a0463f63d7f9436f792d8637cecf918 lmlnilse <lmlnilse@stud.ntnu.no> 1678113500 +0100	pull --no-stat -v --progress origin master: Fast-forward
+de1ff6014a0463f63d7f9436f792d8637cecf918 08e2fc87bfebcd6ea78ef32547003671044ed5a9 lmlnilse <lmlnilse@stud.ntnu.no> 1678113838 +0100	commit: Added methods for multiplication and division.
+08e2fc87bfebcd6ea78ef32547003671044ed5a9 a90ae6a9c819eebbb53ce9a7086d8ba0249e33d5 lmlnilse <lmlnilse@stud.ntnu.no> 1678114916 +0100	commit: Added IP to VM in glances.conf file.
+a90ae6a9c819eebbb53ce9a7086d8ba0249e33d5 c2e80acff7017958c051a2fe094b5a0944957078 lmlnilse <lmlnilse@stud.ntnu.no> 1678115731 +0100	pull --no-stat -v --progress origin master: Fast-forward
+c2e80acff7017958c051a2fe094b5a0944957078 adbc6df58a1ac73fb493c7921d47deadb63bbc6b lmlnilse <lmlnilse@stud.ntnu.no> 1678115866 +0100	commit: Added link to Grafana in app.html.
+adbc6df58a1ac73fb493c7921d47deadb63bbc6b 04005e6e1ba30a0148d948a5b3b1ea7333810382 lmlnilse <lmlnilse@stud.ntnu.no> 1678118387 +0100	pull --no-stat -v --progress origin master: Fast-forward
+04005e6e1ba30a0148d948a5b3b1ea7333810382 510de7766cc63d8b8768a10b3fefd651faa5b7e9 lmlnilse <lmlnilse@stud.ntnu.no> 1678120578 +0100	pull --no-stat -v --progress origin master: Fast-forward
+510de7766cc63d8b8768a10b3fefd651faa5b7e9 cb017a8e5ec3c399db35893907d23c580bb60ff6 lmlnilse <lmlnilse@stud.ntnu.no> 1678194124 +0100	pull --no-stat -v --progress origin master: Fast-forward
+cb017a8e5ec3c399db35893907d23c580bb60ff6 95d6d68e2c645341e8c3932e832ba1890279c196 lmlnilse <lmlnilse@stud.ntnu.no> 1678196961 +0100	rebase (finish): refs/heads/bug-fix onto 95d6d68e2c645341e8c3932e832ba1890279c196
+95d6d68e2c645341e8c3932e832ba1890279c196 9623a7354e9ceec92aefe422121ca1af2ea2342b lmlnilse <lmlnilse@stud.ntnu.no> 1678199048 +0100	merge origin/master: Fast-forward
+9623a7354e9ceec92aefe422121ca1af2ea2342b 8f09ea83cf3d6d9b8bc7b3de7e9932bbe32952c9 lmlnilse <lmlnilse@stud.ntnu.no> 1678199172 +0100	reset: moving to master
+8f09ea83cf3d6d9b8bc7b3de7e9932bbe32952c9 9623a7354e9ceec92aefe422121ca1af2ea2342b lmlnilse <lmlnilse@stud.ntnu.no> 1678199315 +0100	pull --no-stat -v --progress origin master: Fast-forward
+9623a7354e9ceec92aefe422121ca1af2ea2342b ffe7171ff68eba7c60463ac27067a5667882ed25 lmlnilse <lmlnilse@stud.ntnu.no> 1678212743 +0100	pull --no-stat -v --progress origin master: Fast-forward
+ffe7171ff68eba7c60463ac27067a5667882ed25 4c20c1f26c190f43ba75b49cd3c842fe64c18376 lmlnilse <lmlnilse@stud.ntnu.no> 1678213054 +0100	commit: Fixed bugs
+4c20c1f26c190f43ba75b49cd3c842fe64c18376 7c33472dc3796d44dd3baba00f853d89f3bc67e1 lmlnilse <lmlnilse@stud.ntnu.no> 1678213170 +0100	commit: Made password be dots.

@@ -1,0 +1,190 @@
+0000000000000000000000000000000000000000 97ba2b032f230b9c31b5784e5b30e01f80bc99db lmlnilse <lmlnilse@stud.ntnu.no> 1678440280 +0100	clone: from gitlab.stud.idi.ntnu.no:gruppe-21/idatt-1002-2023-21.git
+97ba2b032f230b9c31b5784e5b30e01f80bc99db 2f10ad57face284a59d0530aa43f9eff7f4abda2 lmlnilse <lmlnilse@stud.ntnu.no> 1678441073 +0100	commit: Added necessary plugins and dependencies to POM file.
+2f10ad57face284a59d0530aa43f9eff7f4abda2 2f10ad57face284a59d0530aa43f9eff7f4abda2 lmlnilse <lmlnilse@stud.ntnu.no> 1678443721 +0100	checkout: moving from master to 7-addition/Implement-transfer-interface-functionality
+2f10ad57face284a59d0530aa43f9eff7f4abda2 2f10ad57face284a59d0530aa43f9eff7f4abda2 lmlnilse <lmlnilse@stud.ntnu.no> 1678443882 +0100	checkout: moving from 7-addition/Implement-transfer-interface-functionality to master
+2f10ad57face284a59d0530aa43f9eff7f4abda2 2f10ad57face284a59d0530aa43f9eff7f4abda2 lmlnilse <lmlnilse@stud.ntnu.no> 1678443906 +0100	checkout: moving from master to 7-addition/Implement-transfer-interface-functionality
+2f10ad57face284a59d0530aa43f9eff7f4abda2 413f05c1960202b7bc07491d7e07c1ff24665f85 lmlnilse <lmlnilse@stud.ntnu.no> 1678447459 +0100	commit: Created Interface class for transactions, and implemented all necessary getter and setter methods.
+413f05c1960202b7bc07491d7e07c1ff24665f85 2f10ad57face284a59d0530aa43f9eff7f4abda2 lmlnilse <lmlnilse@stud.ntnu.no> 1678447705 +0100	checkout: moving from 7-addition/Implement-transfer-interface-functionality to master
+2f10ad57face284a59d0530aa43f9eff7f4abda2 f1e4ca7f4f425ef7fa56b34d9462d0bcf0c65815 lmlnilse <lmlnilse@stud.ntnu.no> 1678447811 +0100	pull --no-stat -v --progress origin master: Fast-forward
+f1e4ca7f4f425ef7fa56b34d9462d0bcf0c65815 f1e4ca7f4f425ef7fa56b34d9462d0bcf0c65815 lmlnilse <lmlnilse@stud.ntnu.no> 1678447880 +0100	checkout: moving from master to 19-addition/Create-Income-and-Expense-classes
+f1e4ca7f4f425ef7fa56b34d9462d0bcf0c65815 f1e4ca7f4f425ef7fa56b34d9462d0bcf0c65815 lmlnilse <lmlnilse@stud.ntnu.no> 1678448178 +0100	checkout: moving from 19-addition/Create-Income-and-Expense-classes to master
+f1e4ca7f4f425ef7fa56b34d9462d0bcf0c65815 925c2e5cbb38fd57ab4585840169865dbe1a2ecd lmlnilse <lmlnilse@stud.ntnu.no> 1678448278 +0100	commit: Moved Transaction from demo package to app package.
+925c2e5cbb38fd57ab4585840169865dbe1a2ecd 925c2e5cbb38fd57ab4585840169865dbe1a2ecd lmlnilse <lmlnilse@stud.ntnu.no> 1678448342 +0100	checkout: moving from master to 19-addition/Create-Income-and-Expense-classes
+925c2e5cbb38fd57ab4585840169865dbe1a2ecd 08fdd375b9bafe440108d4596c8d84639fd26282 lmlnilse <lmlnilse@stud.ntnu.no> 1678450369 +0100	commit: Created Income class that implements the Transaction interface. Also implemented all necessary getter and setter methods.
+08fdd375b9bafe440108d4596c8d84639fd26282 08fdd375b9bafe440108d4596c8d84639fd26282 lmlnilse <lmlnilse@stud.ntnu.no> 1678450593 +0100	checkout: moving from 19-addition/Create-Income-and-Expense-classes to 26-addition/Create-Expense-class
+08fdd375b9bafe440108d4596c8d84639fd26282 925c2e5cbb38fd57ab4585840169865dbe1a2ecd lmlnilse <lmlnilse@stud.ntnu.no> 1678450632 +0100	checkout: moving from 26-addition/Create-Expense-class to master
+925c2e5cbb38fd57ab4585840169865dbe1a2ecd 7c738b72f2b8ee57b5f0b7b7d29cf7b37fc970ef lmlnilse <lmlnilse@stud.ntnu.no> 1678450692 +0100	pull --no-stat -v --progress origin master: Fast-forward
+7c738b72f2b8ee57b5f0b7b7d29cf7b37fc970ef 7c738b72f2b8ee57b5f0b7b7d29cf7b37fc970ef lmlnilse <lmlnilse@stud.ntnu.no> 1678450713 +0100	checkout: moving from master to 26-addition/Create-Expense-class
+7c738b72f2b8ee57b5f0b7b7d29cf7b37fc970ef 6a04e5459bc573b2c0d682ef79818e46b5420781 lmlnilse <lmlnilse@stud.ntnu.no> 1678451145 +0100	commit: Created Expense class that implements the Transaction interface. Also implemented all necessary getter and setter methods.
+6a04e5459bc573b2c0d682ef79818e46b5420781 7c738b72f2b8ee57b5f0b7b7d29cf7b37fc970ef lmlnilse <lmlnilse@stud.ntnu.no> 1678451418 +0100	checkout: moving from 26-addition/Create-Expense-class to master
+7c738b72f2b8ee57b5f0b7b7d29cf7b37fc970ef 2574a85bc91d9740c3ec534f81c61a2561d25ce6 lmlnilse <lmlnilse@stud.ntnu.no> 1678451431 +0100	pull --no-stat -v --progress origin master: Fast-forward
+2574a85bc91d9740c3ec534f81c61a2561d25ce6 2574a85bc91d9740c3ec534f81c61a2561d25ce6 lmlnilse <lmlnilse@stud.ntnu.no> 1678451833 +0100	checkout: moving from master to 27-addition/Refactor-Income,-Expense-and-Transaction
+2574a85bc91d9740c3ec534f81c61a2561d25ce6 c49e0cd6de0e7a5ff860c8e4dce3425352167d46 lmlnilse <lmlnilse@stud.ntnu.no> 1678452323 +0100	commit: Changed Transaction and all classes that implements it to use LocalDate instead of Date.
+c49e0cd6de0e7a5ff860c8e4dce3425352167d46 2574a85bc91d9740c3ec534f81c61a2561d25ce6 lmlnilse <lmlnilse@stud.ntnu.no> 1678452600 +0100	checkout: moving from 27-addition/Refactor-Income,-Expense-and-Transaction to master
+2574a85bc91d9740c3ec534f81c61a2561d25ce6 65cf5c9eda36bb41e1168361f7992b793191ff9a lmlnilse <lmlnilse@stud.ntnu.no> 1678452609 +0100	pull --no-stat -v --progress origin master: Fast-forward
+65cf5c9eda36bb41e1168361f7992b793191ff9a 65cf5c9eda36bb41e1168361f7992b793191ff9a lmlnilse <lmlnilse@stud.ntnu.no> 1678453029 +0100	checkout: moving from master to refactor/Change-parameter-name-from-price-to-amount
+65cf5c9eda36bb41e1168361f7992b793191ff9a e55c16cdb455b047f1d90b99f608b8b2d95195cc lmlnilse <lmlnilse@stud.ntnu.no> 1678453386 +0100	commit: Change parameter name price to amount.
+e55c16cdb455b047f1d90b99f608b8b2d95195cc 65cf5c9eda36bb41e1168361f7992b793191ff9a lmlnilse <lmlnilse@stud.ntnu.no> 1678453673 +0100	checkout: moving from refactor/Change-parameter-name-from-price-to-amount to master
+65cf5c9eda36bb41e1168361f7992b793191ff9a 3e50d838edbebdb104ec94e5b65308c1b1252bd3 lmlnilse <lmlnilse@stud.ntnu.no> 1678453683 +0100	pull --no-stat -v --progress origin master: Fast-forward
+3e50d838edbebdb104ec94e5b65308c1b1252bd3 144083b4abe394ff3418501a40ce4de8a1bf259c lmlnilse <lmlnilse@stud.ntnu.no> 1678635036 +0100	pull --no-stat -v --progress origin master: Fast-forward
+144083b4abe394ff3418501a40ce4de8a1bf259c e6474f9eeda489565215654fade105a54082cd97 lmlnilse <lmlnilse@stud.ntnu.no> 1678791665 +0100	pull --no-stat -v --progress origin master: Fast-forward
+e6474f9eeda489565215654fade105a54082cd97 8a4e68ba5529f1ffe20c5a9f1f2513e4baa356b8 lmlnilse <lmlnilse@stud.ntnu.no> 1678795114 +0100	rebase (start): checkout origin/deprecated/registry-interface
+8a4e68ba5529f1ffe20c5a9f1f2513e4baa356b8 864e32053c630f08a264caed7770dd0a27253c13 lmlnilse <lmlnilse@stud.ntnu.no> 1678795118 +0100	rebase (continue) (pick): Added ProjectRegistry class
+864e32053c630f08a264caed7770dd0a27253c13 864e32053c630f08a264caed7770dd0a27253c13 lmlnilse <lmlnilse@stud.ntnu.no> 1678795118 +0100	rebase (continue) (finish): returning to refs/heads/master
+864e32053c630f08a264caed7770dd0a27253c13 decda58e419cbcf4931f2a4c794441c529f95446 lmlnilse <lmlnilse@stud.ntnu.no> 1678884254 +0100	rebase (start): checkout origin/master
+decda58e419cbcf4931f2a4c794441c529f95446 decda58e419cbcf4931f2a4c794441c529f95446 lmlnilse <lmlnilse@stud.ntnu.no> 1678884260 +0100	rebase (continue) (finish): returning to refs/heads/master
+decda58e419cbcf4931f2a4c794441c529f95446 decda58e419cbcf4931f2a4c794441c529f95446 lmlnilse <lmlnilse@stud.ntnu.no> 1678887828 +0100	checkout: moving from master to 48-feature/ViewProject
+decda58e419cbcf4931f2a4c794441c529f95446 decda58e419cbcf4931f2a4c794441c529f95446 lmlnilse <lmlnilse@stud.ntnu.no> 1678887934 +0100	reset: moving to HEAD
+decda58e419cbcf4931f2a4c794441c529f95446 a2ed3aff17a7394ea831a5e5f103c9c99fc22c38 lmlnilse <lmlnilse@stud.ntnu.no> 1678887969 +0100	pull origin master: Fast-forward
+a2ed3aff17a7394ea831a5e5f103c9c99fc22c38 fa4de7f168cef904b6f0ff1c8c743b6cb2822578 lmlnilse <lmlnilse@stud.ntnu.no> 1679320453 +0100	rebase (start): checkout origin/47-addition/new-project
+fa4de7f168cef904b6f0ff1c8c743b6cb2822578 fa4de7f168cef904b6f0ff1c8c743b6cb2822578 lmlnilse <lmlnilse@stud.ntnu.no> 1679320453 +0100	rebase (finish): returning to refs/heads/48-feature/ViewProject
+fa4de7f168cef904b6f0ff1c8c743b6cb2822578 b7ad06dd724f2aee7cb8800113b22d0a14baf21d lmlnilse <lmlnilse@stud.ntnu.no> 1679327176 +0100	commit: Created GUI to view a project
+b7ad06dd724f2aee7cb8800113b22d0a14baf21d 34217bbc0b8749e6c24820df07db460f5767df0b lmlnilse <lmlnilse@stud.ntnu.no> 1679327297 +0100	commit: Moved viewProject.fxml to package no.ntnu.idatt1002.app.
+34217bbc0b8749e6c24820df07db460f5767df0b 8350e71bac6352562af3920072ccb066cb39f760 lmlnilse <lmlnilse@stud.ntnu.no> 1679477410 +0100	rebase (start): checkout origin/47-addition/new-project
+8350e71bac6352562af3920072ccb066cb39f760 23a37111d7cd35f4ecf6f6be4fe21253deaa0ec0 lmlnilse <lmlnilse@stud.ntnu.no> 1679477410 +0100	rebase (pick): Created GUI to view a project
+23a37111d7cd35f4ecf6f6be4fe21253deaa0ec0 23a37111d7cd35f4ecf6f6be4fe21253deaa0ec0 lmlnilse <lmlnilse@stud.ntnu.no> 1679477419 +0100	rebase (continue) (finish): returning to refs/heads/48-feature/ViewProject
+23a37111d7cd35f4ecf6f6be4fe21253deaa0ec0 0c2c9c49ac1927af39d41dbb49871aa5d88ac6b9 lmlnilse <lmlnilse@stud.ntnu.no> 1679477464 +0100	rebase (start): checkout origin/master
+0c2c9c49ac1927af39d41dbb49871aa5d88ac6b9 2ca9f0d273b2dc77703e257f585b46a5ceec620a lmlnilse <lmlnilse@stud.ntnu.no> 1679477464 +0100	rebase (pick): Created GUI to view a project
+2ca9f0d273b2dc77703e257f585b46a5ceec620a 2ca9f0d273b2dc77703e257f585b46a5ceec620a lmlnilse <lmlnilse@stud.ntnu.no> 1679477464 +0100	rebase (finish): returning to refs/heads/48-feature/ViewProject
+2ca9f0d273b2dc77703e257f585b46a5ceec620a d78ca11033eb283fe9989fa8ce21d8d1148e9ba9 lmlnilse <lmlnilse@stud.ntnu.no> 1679479117 +0100	merge origin/master: Fast-forward
+d78ca11033eb283fe9989fa8ce21d8d1148e9ba9 d78ca11033eb283fe9989fa8ce21d8d1148e9ba9 lmlnilse <lmlnilse@stud.ntnu.no> 1679485225 +0100	checkout: moving from 48-feature/ViewProject to 54-addition/Add_functionality_for_storing_a_projectRegistry
+d78ca11033eb283fe9989fa8ce21d8d1148e9ba9 da0d9a40e02af26eb01074c94e8bf8b16c273d70 lmlnilse <lmlnilse@stud.ntnu.no> 1679485293 +0100	commit: Add functionality for storing a projectRegistry.
+da0d9a40e02af26eb01074c94e8bf8b16c273d70 decda58e419cbcf4931f2a4c794441c529f95446 lmlnilse <lmlnilse@stud.ntnu.no> 1679485495 +0100	checkout: moving from 54-addition/Add_functionality_for_storing_a_projectRegistry to master
+decda58e419cbcf4931f2a4c794441c529f95446 a73090b3796a7c1b0446e0477b240b077b376ce3 lmlnilse <lmlnilse@stud.ntnu.no> 1679485509 +0100	rebase (start): checkout origin/master
+a73090b3796a7c1b0446e0477b240b077b376ce3 a73090b3796a7c1b0446e0477b240b077b376ce3 lmlnilse <lmlnilse@stud.ntnu.no> 1679485509 +0100	rebase (finish): returning to refs/heads/master
+a73090b3796a7c1b0446e0477b240b077b376ce3 17c0ddc2abe70caf28158ec99616152367a0b5b7 lmlnilse <lmlnilse@stud.ntnu.no> 1679488181 +0100	rebase (start): checkout origin/master
+17c0ddc2abe70caf28158ec99616152367a0b5b7 17c0ddc2abe70caf28158ec99616152367a0b5b7 lmlnilse <lmlnilse@stud.ntnu.no> 1679488181 +0100	rebase (finish): returning to refs/heads/master
+17c0ddc2abe70caf28158ec99616152367a0b5b7 17c0ddc2abe70caf28158ec99616152367a0b5b7 lmlnilse <lmlnilse@stud.ntnu.no> 1679489831 +0100	checkout: moving from master to refactoring/FileHandling_use_User_insted_of_ProjectRegistry
+17c0ddc2abe70caf28158ec99616152367a0b5b7 a103d2eebeaf844858a4ccad44cd07e07b24e23d lmlnilse <lmlnilse@stud.ntnu.no> 1679489968 +0100	commit: Made FileHandling class store User insted of ProjectRegistry.
+a103d2eebeaf844858a4ccad44cd07e07b24e23d 3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 lmlnilse <lmlnilse@stud.ntnu.no> 1679490075 +0100	rebase (start): checkout origin/master
+3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 lmlnilse <lmlnilse@stud.ntnu.no> 1679490075 +0100	rebase (finish): returning to refs/heads/refactoring/FileHandling_use_User_insted_of_ProjectRegistry
+3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 17c0ddc2abe70caf28158ec99616152367a0b5b7 lmlnilse <lmlnilse@stud.ntnu.no> 1679490085 +0100	checkout: moving from refactoring/FileHandling_use_User_insted_of_ProjectRegistry to master
+17c0ddc2abe70caf28158ec99616152367a0b5b7 3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 lmlnilse <lmlnilse@stud.ntnu.no> 1679490095 +0100	rebase (start): checkout origin/master
+3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 lmlnilse <lmlnilse@stud.ntnu.no> 1679490095 +0100	rebase (finish): returning to refs/heads/master
+3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 lmlnilse <lmlnilse@stud.ntnu.no> 1679490829 +0100	checkout: moving from master to refactor/Deleted_method_from_User
+3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 ae9a24b7e54016e72ce1cd008f77cf2637a9ccbd lmlnilse <lmlnilse@stud.ntnu.no> 1679490877 +0100	commit: Deleted method from user.
+ae9a24b7e54016e72ce1cd008f77cf2637a9ccbd 3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 lmlnilse <lmlnilse@stud.ntnu.no> 1679490941 +0100	checkout: moving from refactor/Deleted_method_from_User to master
+3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 723e0b8422cf5a5ace3f4034f47e7fe927c67a3c lmlnilse <lmlnilse@stud.ntnu.no> 1679490952 +0100	rebase (start): checkout origin/master
+723e0b8422cf5a5ace3f4034f47e7fe927c67a3c 723e0b8422cf5a5ace3f4034f47e7fe927c67a3c lmlnilse <lmlnilse@stud.ntnu.no> 1679490952 +0100	rebase (finish): returning to refs/heads/master
+723e0b8422cf5a5ace3f4034f47e7fe927c67a3c 7eb1a6db5e6f8c14f624860bd63b04935e3892af lmlnilse <lmlnilse@stud.ntnu.no> 1679650510 +0100	merge origin/master: Fast-forward
+7eb1a6db5e6f8c14f624860bd63b04935e3892af 269fb980ff6aaae7c7bb123f680c4d189aa56e57 lmlnilse <lmlnilse@stud.ntnu.no> 1679652441 +0100	merge origin/master: Fast-forward
+269fb980ff6aaae7c7bb123f680c4d189aa56e57 269fb980ff6aaae7c7bb123f680c4d189aa56e57 lmlnilse <lmlnilse@stud.ntnu.no> 1679652512 +0100	reset: moving to HEAD
+269fb980ff6aaae7c7bb123f680c4d189aa56e57 bb268c66613ec265a430414a0f82d545de6f8a83 lmlnilse <lmlnilse@stud.ntnu.no> 1679658365 +0100	rebase (start): checkout origin/master
+bb268c66613ec265a430414a0f82d545de6f8a83 bb268c66613ec265a430414a0f82d545de6f8a83 lmlnilse <lmlnilse@stud.ntnu.no> 1679658365 +0100	rebase (finish): returning to refs/heads/master
+bb268c66613ec265a430414a0f82d545de6f8a83 5de18776ba92c17b651abf2345ccbe86bbc43aec lmlnilse <lmlnilse@stud.ntnu.no> 1679664784 +0100	rebase (start): checkout origin/master
+5de18776ba92c17b651abf2345ccbe86bbc43aec 5de18776ba92c17b651abf2345ccbe86bbc43aec lmlnilse <lmlnilse@stud.ntnu.no> 1679664784 +0100	rebase (finish): returning to refs/heads/master
+5de18776ba92c17b651abf2345ccbe86bbc43aec 1bfe51835b120de8d873928073145bb2b70fd21b lmlnilse <lmlnilse@stud.ntnu.no> 1679676102 +0100	merge origin/master: Fast-forward
+1bfe51835b120de8d873928073145bb2b70fd21b 8ca29a56e8eed50490133423e9c9f7f5b69a5041 lmlnilse <lmlnilse@stud.ntnu.no> 1679750928 +0100	merge origin/master: Fast-forward
+8ca29a56e8eed50490133423e9c9f7f5b69a5041 1c4732d2d6e89a38938cab7ececfa95ba066cffd lmlnilse <lmlnilse@stud.ntnu.no> 1681458806 +0200	rebase (start): checkout origin/master
+1c4732d2d6e89a38938cab7ececfa95ba066cffd 1c4732d2d6e89a38938cab7ececfa95ba066cffd lmlnilse <lmlnilse@stud.ntnu.no> 1681458806 +0200	rebase (finish): returning to refs/heads/master
+1c4732d2d6e89a38938cab7ececfa95ba066cffd a88a86c75a64d112d4234afd96933ddb9a9e0fc2 lmlnilse <lmlnilse@stud.ntnu.no> 1681722708 +0200	merge origin/master: Fast-forward
+a88a86c75a64d112d4234afd96933ddb9a9e0fc2 800b9bde849bdae636e5d4f74868c48ad9ee12c5 lmlnilse <lmlnilse@stud.ntnu.no> 1681723791 +0200	merge origin/master: Fast-forward
+800b9bde849bdae636e5d4f74868c48ad9ee12c5 e04ae46f2506689b78e48e660a200c56c8dd3901 lmlnilse <lmlnilse@stud.ntnu.no> 1681724424 +0200	merge origin/master: Fast-forward
+e04ae46f2506689b78e48e660a200c56c8dd3901 00252c1d3c341eef7fa67ebca196624b7ff03e54 lmlnilse <lmlnilse@stud.ntnu.no> 1681724570 +0200	rebase (start): checkout origin/master
+00252c1d3c341eef7fa67ebca196624b7ff03e54 00252c1d3c341eef7fa67ebca196624b7ff03e54 lmlnilse <lmlnilse@stud.ntnu.no> 1681724570 +0200	rebase (finish): returning to refs/heads/master
+00252c1d3c341eef7fa67ebca196624b7ff03e54 77410360173891ac01f297fa7a3fd307418fe60f lmlnilse <lmlnilse@stud.ntnu.no> 1681729399 +0200	merge origin/master: Fast-forward
+77410360173891ac01f297fa7a3fd307418fe60f 77410360173891ac01f297fa7a3fd307418fe60f lmlnilse <lmlnilse@stud.ntnu.no> 1681828283 +0200	checkout: moving from master to 84-addition/Make-dark-theme
+77410360173891ac01f297fa7a3fd307418fe60f 77410360173891ac01f297fa7a3fd307418fe60f lmlnilse <lmlnilse@stud.ntnu.no> 1681828299 +0200	checkout: moving from 84-addition/Make-dark-theme to master
+77410360173891ac01f297fa7a3fd307418fe60f 77410360173891ac01f297fa7a3fd307418fe60f lmlnilse <lmlnilse@stud.ntnu.no> 1681828307 +0200	checkout: moving from master to 84-addition/Make-dark-theme
+77410360173891ac01f297fa7a3fd307418fe60f 6c667b647a1e459518806a5be9611b1c2d4a2cbd lmlnilse <lmlnilse@stud.ntnu.no> 1681844031 +0200	commit: Added CSS file for dark theme.
+6c667b647a1e459518806a5be9611b1c2d4a2cbd 88ffb8e8c02924fa1476815f48402b4d811396e6 lmlnilse <lmlnilse@stud.ntnu.no> 1681844078 +0200	commit: Added a toggle button to switch between light and dark theme.
+88ffb8e8c02924fa1476815f48402b4d811396e6 6f0b0952eabe0974b6050140e80c7582ea7d15c5 lmlnilse <lmlnilse@stud.ntnu.no> 1681844138 +0200	commit: Added functionality in the controllers to switch between light and dark theme.
+6f0b0952eabe0974b6050140e80c7582ea7d15c5 763146c739134ca79f2d90b65d9266e0e37c14ea lmlnilse <lmlnilse@stud.ntnu.no> 1681904550 +0200	commit: Changed all Text elements to Label, so you can change color of the text when switching to dark mode.
+763146c739134ca79f2d90b65d9266e0e37c14ea 7144d8e485c6e5e35b6af26c60d58008cbe2f129 lmlnilse <lmlnilse@stud.ntnu.no> 1681904643 +0200	commit: Changed all Text elements in the controllers to Label, to match the changes in the fxml files.
+7144d8e485c6e5e35b6af26c60d58008cbe2f129 753bb9909c79f6c7644f3e4938cd0ef32303f621 lmlnilse <lmlnilse@stud.ntnu.no> 1681904678 +0200	commit: Changed dark-theme.css file so dark theme look better.
+753bb9909c79f6c7644f3e4938cd0ef32303f621 baf33983b265521632eb31f136f42fa2f005ff31 lmlnilse <lmlnilse@stud.ntnu.no> 1681994233 +0200	rebase (start): checkout origin/master
+baf33983b265521632eb31f136f42fa2f005ff31 efe7f7a0b3af5447b9e9f4c39877f1cc5f430487 lmlnilse <lmlnilse@stud.ntnu.no> 1681994233 +0200	rebase (pick): Added CSS file for dark theme.
+efe7f7a0b3af5447b9e9f4c39877f1cc5f430487 ee4db6e0699f6f3e0d048e0e27907ac15c4bbcde lmlnilse <lmlnilse@stud.ntnu.no> 1681994233 +0200	rebase (pick): Added a toggle button to switch between light and dark theme.
+ee4db6e0699f6f3e0d048e0e27907ac15c4bbcde ecb0c75954c7bc7c3a9834e47fa88c294edfbcf1 lmlnilse <lmlnilse@stud.ntnu.no> 1681994233 +0200	rebase (pick): Added functionality in the controllers to switch between light and dark theme.
+ecb0c75954c7bc7c3a9834e47fa88c294edfbcf1 b72204120d4933d5292cfb4b9e1616afd7eae383 lmlnilse <lmlnilse@stud.ntnu.no> 1681994233 +0200	rebase (pick): Changed all Text elements to Label, so you can change color of the text when switching to dark mode.
+b72204120d4933d5292cfb4b9e1616afd7eae383 2d22028a7978f61e4aeb53a94c8634af82382a78 lmlnilse <lmlnilse@stud.ntnu.no> 1681994233 +0200	rebase (pick): Changed all Text elements in the controllers to Label, to match the changes in the fxml files.
+2d22028a7978f61e4aeb53a94c8634af82382a78 516185a6a14cb75d3bbb6d2958d05cca1b1011cc lmlnilse <lmlnilse@stud.ntnu.no> 1681994233 +0200	rebase (pick): Changed dark-theme.css file so dark theme look better.
+516185a6a14cb75d3bbb6d2958d05cca1b1011cc 516185a6a14cb75d3bbb6d2958d05cca1b1011cc lmlnilse <lmlnilse@stud.ntnu.no> 1681994233 +0200	rebase (finish): returning to refs/heads/84-addition/Make-dark-theme
+516185a6a14cb75d3bbb6d2958d05cca1b1011cc 57e9626c8a4557d7fcb1fae1a18a197136f0d96f lmlnilse <lmlnilse@stud.ntnu.no> 1681995062 +0200	rebase (start): checkout origin/master
+57e9626c8a4557d7fcb1fae1a18a197136f0d96f 4fffb4f790bc574dc3c2ca45c54a85acf8f42a58 lmlnilse <lmlnilse@stud.ntnu.no> 1681995062 +0200	rebase (pick): Added CSS file for dark theme.
+4fffb4f790bc574dc3c2ca45c54a85acf8f42a58 da100dbbf2a4d15e3e213d8107741e2d4ae56dc6 lmlnilse <lmlnilse@stud.ntnu.no> 1681995062 +0200	rebase (pick): Added a toggle button to switch between light and dark theme.
+da100dbbf2a4d15e3e213d8107741e2d4ae56dc6 32b2b62d392ed2c204ab49268e285777bfadf5fe lmlnilse <lmlnilse@stud.ntnu.no> 1681995062 +0200	rebase (pick): Added functionality in the controllers to switch between light and dark theme.
+32b2b62d392ed2c204ab49268e285777bfadf5fe b9fe8b7a0153ad11101e80982f39c7d21a7fa0c1 lmlnilse <lmlnilse@stud.ntnu.no> 1681995063 +0200	rebase (pick): Changed all Text elements to Label, so you can change color of the text when switching to dark mode.
+b9fe8b7a0153ad11101e80982f39c7d21a7fa0c1 ba59725c341fc8272871f8d6714b089c51fe8402 lmlnilse <lmlnilse@stud.ntnu.no> 1681995063 +0200	rebase (pick): Changed all Text elements in the controllers to Label, to match the changes in the fxml files.
+ba59725c341fc8272871f8d6714b089c51fe8402 7087b2c1211c1e63d509b36889df618a613016cb lmlnilse <lmlnilse@stud.ntnu.no> 1681995063 +0200	rebase (pick): Changed dark-theme.css file so dark theme look better.
+7087b2c1211c1e63d509b36889df618a613016cb 7087b2c1211c1e63d509b36889df618a613016cb lmlnilse <lmlnilse@stud.ntnu.no> 1681995063 +0200	rebase (finish): returning to refs/heads/84-addition/Make-dark-theme
+7087b2c1211c1e63d509b36889df618a613016cb d2579c04c6a3b292a026d331c287660e46b3b972 lmlnilse <lmlnilse@stud.ntnu.no> 1681995996 +0200	commit: Added dark mode to MonthlyOverview GUI.
+d2579c04c6a3b292a026d331c287660e46b3b972 7b010ddffe9057e745bbacb80160c775fd29e7da lmlnilse <lmlnilse@stud.ntnu.no> 1681996035 +0200	merge origin/84-addition/Make-dark-theme: Merge made by the 'ort' strategy.
+7b010ddffe9057e745bbacb80160c775fd29e7da 77410360173891ac01f297fa7a3fd307418fe60f lmlnilse <lmlnilse@stud.ntnu.no> 1681996290 +0200	checkout: moving from 84-addition/Make-dark-theme to master
+77410360173891ac01f297fa7a3fd307418fe60f 44d578b524f907af8f21ce3498d0c043ff4f2870 lmlnilse <lmlnilse@stud.ntnu.no> 1681996299 +0200	merge origin/master: Fast-forward
+44d578b524f907af8f21ce3498d0c043ff4f2870 44d578b524f907af8f21ce3498d0c043ff4f2870 lmlnilse <lmlnilse@stud.ntnu.no> 1682005340 +0200	checkout: moving from master to 85-addition/Color-code-projects
+44d578b524f907af8f21ce3498d0c043ff4f2870 44d578b524f907af8f21ce3498d0c043ff4f2870 lmlnilse <lmlnilse@stud.ntnu.no> 1682007497 +0200	reset: moving to HEAD
+44d578b524f907af8f21ce3498d0c043ff4f2870 2ebb36e9c016728c0c8bcf4d8f77c0db981abe24 lmlnilse <lmlnilse@stud.ntnu.no> 1682015179 +0200	commit: Added a status as a parameter to project. Status symbolises what stage a project is in. If it's not started on, if it's started on or if it's finished.
+2ebb36e9c016728c0c8bcf4d8f77c0db981abe24 6ced9db9445ce3d6e49c3012fe672773a04268f9 lmlnilse <lmlnilse@stud.ntnu.no> 1682015189 +0200	commit: Added a status as a parameter to project. Status symbolises what stage a project is in. If it's not started on, if it's started on or if it's finished.
+6ced9db9445ce3d6e49c3012fe672773a04268f9 54f701384d0945d90d4df6125896426f9cc4bfa2 lmlnilse <lmlnilse@stud.ntnu.no> 1682015365 +0200	commit: Added status in to the GUI. So that you can select witch stage a project is in, both in newProject and in editProject. Also added color coding behind a project in allProjects, so you can easily see witch stage a project is in.
+54f701384d0945d90d4df6125896426f9cc4bfa2 d26c46bf98b4965d8a4eecb1b34ad8977972abc7 lmlnilse <lmlnilse@stud.ntnu.no> 1682015434 +0200	commit: Added the status parameter to all projects in tests.
+d26c46bf98b4965d8a4eecb1b34ad8977972abc7 170213549fbc8be0a12d56b0df802c5999f8e1b9 lmlnilse <lmlnilse@stud.ntnu.no> 1682015486 +0200	commit: Change test data so that projects in it has the newly implemented parameter, status.
+170213549fbc8be0a12d56b0df802c5999f8e1b9 24e5f2bcd4380b066c8c44e618753fcbece12581 lmlnilse <lmlnilse@stud.ntnu.no> 1682180168 +0200	commit: Change AllProjects.fxml to display what each color of a project means.
+24e5f2bcd4380b066c8c44e618753fcbece12581 24e5f2bcd4380b066c8c44e618753fcbece12581 lmlnilse <lmlnilse@stud.ntnu.no> 1682180773 +0200	checkout: moving from 85-addition/Color-code-projects to 89-addition/Add-pie-charts-for-income-and-expense
+24e5f2bcd4380b066c8c44e618753fcbece12581 7c700f280dd9db64529031ef981d2b483aa527a0 lmlnilse <lmlnilse@stud.ntnu.no> 1682189786 +0200	commit: Added Pie charts to in EditProject.fxml, NewProject.fxml and ViewProject.fxml, and all the belonging controllers.
+7c700f280dd9db64529031ef981d2b483aa527a0 dff1b762be73db695987c05c37222524d1a1aaeb lmlnilse <lmlnilse@stud.ntnu.no> 1682268785 +0200	commit: Moved pie charts to the left of the save and delete buttons, to make the GUI look better.
+dff1b762be73db695987c05c37222524d1a1aaeb dff1b762be73db695987c05c37222524d1a1aaeb lmlnilse <lmlnilse@stud.ntnu.no> 1682277515 +0200	reset: moving to HEAD
+dff1b762be73db695987c05c37222524d1a1aaeb 44d578b524f907af8f21ce3498d0c043ff4f2870 lmlnilse <lmlnilse@stud.ntnu.no> 1682277519 +0200	checkout: moving from 89-addition/Add-pie-charts-for-income-and-expense to master
+44d578b524f907af8f21ce3498d0c043ff4f2870 76e4393167ebbeb7cd62c0f4410db67c018542e6 lmlnilse <lmlnilse@stud.ntnu.no> 1682277547 +0200	rebase (start): checkout origin/master
+76e4393167ebbeb7cd62c0f4410db67c018542e6 76e4393167ebbeb7cd62c0f4410db67c018542e6 lmlnilse <lmlnilse@stud.ntnu.no> 1682277547 +0200	rebase (finish): returning to refs/heads/master
+76e4393167ebbeb7cd62c0f4410db67c018542e6 76e4393167ebbeb7cd62c0f4410db67c018542e6 lmlnilse <lmlnilse@stud.ntnu.no> 1682339071 +0200	checkout: moving from master to 90-addition/GUI-update
+76e4393167ebbeb7cd62c0f4410db67c018542e6 95f1d2fdd8603b75c6131acee89f38f56c438278 lmlnilse <lmlnilse@stud.ntnu.no> 1682353666 +0200	commit: Added a Start window, where you can go to AllProjects or MonthlyOverview.
+95f1d2fdd8603b75c6131acee89f38f56c438278 aa9059e7745c8f7f75e91934ddd6126610088ec2 lmlnilse <lmlnilse@stud.ntnu.no> 1682353710 +0200	commit: Added pie charts to MonthlyOverview GUI, and made it look better.
+aa9059e7745c8f7f75e91934ddd6126610088ec2 597994a8aa4ba844fd34afe1f59e2ae96efc8d40 lmlnilse <lmlnilse@stud.ntnu.no> 1682353733 +0200	commit: Improved GUI to make it look better.
+597994a8aa4ba844fd34afe1f59e2ae96efc8d40 af9faad9b6d6e483d0f45b4c05aafaba368a0a04 lmlnilse <lmlnilse@stud.ntnu.no> 1682431606 +0200	commit: Made buttons larger in EditProject and NewProject.
+af9faad9b6d6e483d0f45b4c05aafaba368a0a04 c000642dc82e5f2278e780d9629506711c84f4eb lmlnilse <lmlnilse@stud.ntnu.no> 1682431768 +0200	rebase (start): checkout origin/master
+c000642dc82e5f2278e780d9629506711c84f4eb a9e4d9050576243ed3f95428558403a14435aa7f lmlnilse <lmlnilse@stud.ntnu.no> 1682431768 +0200	rebase (pick): Added a Start window, where you can go to AllProjects or MonthlyOverview.
+a9e4d9050576243ed3f95428558403a14435aa7f f07c288a2f4902a945c47218031995dfaf8e7b6a lmlnilse <lmlnilse@stud.ntnu.no> 1682432080 +0200	rebase (continue): Added pie charts to MonthlyOverview GUI, and made it look better.
+f07c288a2f4902a945c47218031995dfaf8e7b6a 08f54ac62a92b085cf3e48d62fdfee34cff3e337 lmlnilse <lmlnilse@stud.ntnu.no> 1682432117 +0200	rebase (continue): Improved GUI to make it look better.
+08f54ac62a92b085cf3e48d62fdfee34cff3e337 0f0d52a42f34573e10f2b1ee8f88f3903cd2bb08 lmlnilse <lmlnilse@stud.ntnu.no> 1682432201 +0200	rebase (continue): Made buttons larger in EditProject and NewProject.
+0f0d52a42f34573e10f2b1ee8f88f3903cd2bb08 0f0d52a42f34573e10f2b1ee8f88f3903cd2bb08 lmlnilse <lmlnilse@stud.ntnu.no> 1682432203 +0200	rebase (continue) (finish): returning to refs/heads/90-addition/GUI-update
+0f0d52a42f34573e10f2b1ee8f88f3903cd2bb08 ffbca12f131bc8b11ddcf6e2f607e08af58be7d2 lmlnilse <lmlnilse@stud.ntnu.no> 1682441883 +0200	commit: Added individual HBOXes to add income and expense, instead of writing negative numbers when wanting to add an expense in the MonthlyOverview GUI.
+ffbca12f131bc8b11ddcf6e2f607e08af58be7d2 ffbca12f131bc8b11ddcf6e2f607e08af58be7d2 lmlnilse <lmlnilse@stud.ntnu.no> 1682442238 +0200	reset: moving to HEAD
+ffbca12f131bc8b11ddcf6e2f607e08af58be7d2 ffbca12f131bc8b11ddcf6e2f607e08af58be7d2 lmlnilse <lmlnilse@stud.ntnu.no> 1682442283 +0200	reset: moving to HEAD
+ffbca12f131bc8b11ddcf6e2f607e08af58be7d2 76e4393167ebbeb7cd62c0f4410db67c018542e6 lmlnilse <lmlnilse@stud.ntnu.no> 1682442290 +0200	checkout: moving from 90-addition/GUI-update to master
+76e4393167ebbeb7cd62c0f4410db67c018542e6 4a717b3c148ec277cb943f64525c0779aba1bb05 lmlnilse <lmlnilse@stud.ntnu.no> 1682442301 +0200	rebase (start): checkout origin/master
+4a717b3c148ec277cb943f64525c0779aba1bb05 4a717b3c148ec277cb943f64525c0779aba1bb05 lmlnilse <lmlnilse@stud.ntnu.no> 1682442301 +0200	rebase (finish): returning to refs/heads/master
+4a717b3c148ec277cb943f64525c0779aba1bb05 fe2d4b64b86ad50b7b600bc2ec3d58830efc09a7 lmlnilse <lmlnilse@stud.ntnu.no> 1682510390 +0200	merge origin/master: Fast-forward
+fe2d4b64b86ad50b7b600bc2ec3d58830efc09a7 85708cf30ead144d68dd8943a3ce0f534c9c38d1 lmlnilse <lmlnilse@stud.ntnu.no> 1682512063 +0200	rebase (start): checkout origin/master
+85708cf30ead144d68dd8943a3ce0f534c9c38d1 85708cf30ead144d68dd8943a3ce0f534c9c38d1 lmlnilse <lmlnilse@stud.ntnu.no> 1682512063 +0200	rebase (finish): returning to refs/heads/master
+85708cf30ead144d68dd8943a3ce0f534c9c38d1 85708cf30ead144d68dd8943a3ce0f534c9c38d1 lmlnilse <lmlnilse@stud.ntnu.no> 1682512131 +0200	branch: Reset to origin/master
+85708cf30ead144d68dd8943a3ce0f534c9c38d1 85708cf30ead144d68dd8943a3ce0f534c9c38d1 lmlnilse <lmlnilse@stud.ntnu.no> 1682512131 +0200	checkout: moving from master to master
+85708cf30ead144d68dd8943a3ce0f534c9c38d1 ffbca12f131bc8b11ddcf6e2f607e08af58be7d2 lmlnilse <lmlnilse@stud.ntnu.no> 1682512237 +0200	checkout: moving from master to 90-addition/GUI-update
+ffbca12f131bc8b11ddcf6e2f607e08af58be7d2 85708cf30ead144d68dd8943a3ce0f534c9c38d1 lmlnilse <lmlnilse@stud.ntnu.no> 1682512248 +0200	merge origin/master: Fast-forward
+85708cf30ead144d68dd8943a3ce0f534c9c38d1 47136ac589c5d2f2b4bb764de3879e84a611a8ca lmlnilse <lmlnilse@stud.ntnu.no> 1682512742 +0200	commit: Updated MonthlyOverview GUI to empty the TextBoxes used for adding and Income or Expense when you delete an Income or Expense you have selected in the table.
+47136ac589c5d2f2b4bb764de3879e84a611a8ca 9726b22754489bc9a042835956874067f68a5d90 lmlnilse <lmlnilse@stud.ntnu.no> 1682532327 +0200	commit: Changed light-theme.css and dark-theme.css to make the program look better.
+9726b22754489bc9a042835956874067f68a5d90 0e1500deda837e4c1dc8fcb9f998d839cbea7cee lmlnilse <lmlnilse@stud.ntnu.no> 1682532400 +0200	commit: Change GUI, so it supports 720 pixels height.
+0e1500deda837e4c1dc8fcb9f998d839cbea7cee c468ddd5fcedfe0ec128685ea0db654b48b23c58 lmlnilse <lmlnilse@stud.ntnu.no> 1682532451 +0200	commit: Updated BudgetAndAccountingApp, so that the GUI opens in fullscreen mode and the minimum size of the window is 720x1280.
+c468ddd5fcedfe0ec128685ea0db654b48b23c58 65f94cc6981d2f8fd5903740891c581bb9bf509a lmlnilse <lmlnilse@stud.ntnu.no> 1682532463 +0200	rebase (start): checkout origin/master
+65f94cc6981d2f8fd5903740891c581bb9bf509a b40b908691b69006a9a2382661cefd5d85db9c3b lmlnilse <lmlnilse@stud.ntnu.no> 1682532463 +0200	rebase (pick): Updated MonthlyOverview GUI to empty the TextBoxes used for adding and Income or Expense when you delete an Income or Expense you have selected in the table.
+b40b908691b69006a9a2382661cefd5d85db9c3b 9bd19d6f499f4563ff0d368c525d0dfa1ddfbd5c lmlnilse <lmlnilse@stud.ntnu.no> 1682532463 +0200	rebase (pick): Changed light-theme.css and dark-theme.css to make the program look better.
+9bd19d6f499f4563ff0d368c525d0dfa1ddfbd5c 0b1388a6e8e1f81f2f698f82c1670eb81c75825e lmlnilse <lmlnilse@stud.ntnu.no> 1682532821 +0200	rebase (continue): Change GUI, so it supports 720 pixels height.
+0b1388a6e8e1f81f2f698f82c1670eb81c75825e ed165cc75d3e34dfa58a8cffa6ae1a3f65bfd993 lmlnilse <lmlnilse@stud.ntnu.no> 1682532823 +0200	rebase (continue) (pick): Updated BudgetAndAccountingApp, so that the GUI opens in fullscreen mode and the minimum size of the window is 720x1280.
+ed165cc75d3e34dfa58a8cffa6ae1a3f65bfd993 ed165cc75d3e34dfa58a8cffa6ae1a3f65bfd993 lmlnilse <lmlnilse@stud.ntnu.no> 1682532823 +0200	rebase (continue) (finish): returning to refs/heads/90-addition/GUI-update
+ed165cc75d3e34dfa58a8cffa6ae1a3f65bfd993 148f3a609b242b1d72f63fc6dc91f453e2807ffb lmlnilse <lmlnilse@stud.ntnu.no> 1682533119 +0200	commit: Changed text in the alert box that pops up when you cancel a new project.
+148f3a609b242b1d72f63fc6dc91f453e2807ffb 85708cf30ead144d68dd8943a3ce0f534c9c38d1 lmlnilse <lmlnilse@stud.ntnu.no> 1682533324 +0200	checkout: moving from 90-addition/GUI-update to master
+85708cf30ead144d68dd8943a3ce0f534c9c38d1 3cd0134f88968aad1584fe8439e822f343832a91 lmlnilse <lmlnilse@stud.ntnu.no> 1682533337 +0200	merge origin/master: Fast-forward
+3cd0134f88968aad1584fe8439e822f343832a91 f411176b636734c77cbe2f7194557569125febd1 lmlnilse <lmlnilse@stud.ntnu.no> 1682590582 +0200	rebase (start): checkout origin/master
+f411176b636734c77cbe2f7194557569125febd1 f411176b636734c77cbe2f7194557569125febd1 lmlnilse <lmlnilse@stud.ntnu.no> 1682590582 +0200	rebase (finish): returning to refs/heads/master
+f411176b636734c77cbe2f7194557569125febd1 2fe0f82ec63fa743e0490eebbbb32a5eed93592f lmlnilse <lmlnilse@stud.ntnu.no> 1682590690 +0200	merge origin/refactor/make-jar-file: Fast-forward
+2fe0f82ec63fa743e0490eebbbb32a5eed93592f bb03e93295ecb93523ddceac6065359f9eabe0b2 lmlnilse <lmlnilse@stud.ntnu.no> 1682611745 +0200	merge origin/master: Fast-forward
+bb03e93295ecb93523ddceac6065359f9eabe0b2 bb03e93295ecb93523ddceac6065359f9eabe0b2 lmlnilse <lmlnilse@stud.ntnu.no> 1682642531 +0200	checkout: moving from master to bugfix/misc-bugs
+bb03e93295ecb93523ddceac6065359f9eabe0b2 396024c883a23a3e14bae562227657f3af2cfaa1 lmlnilse <lmlnilse@stud.ntnu.no> 1682642593 +0200	commit: Fixed bug when closing application when creating a new Project.
+396024c883a23a3e14bae562227657f3af2cfaa1 9ba31629329d1dfeb9fbc5b3434db763530e3b51 lmlnilse <lmlnilse@stud.ntnu.no> 1682643136 +0200	commit: Fixed bug, so that you can only add files of .jpg, .jpeg, .img or .gif to newProject or editProject.
+9ba31629329d1dfeb9fbc5b3434db763530e3b51 389f7bf6ed76202ec1aeed80de9b4df7aaafb666 lmlnilse <lmlnilse@stud.ntnu.no> 1682643163 +0200	rebase (start): checkout origin/master
+389f7bf6ed76202ec1aeed80de9b4df7aaafb666 ba4d192355234cc31bb4ed36659bb5477e297028 lmlnilse <lmlnilse@stud.ntnu.no> 1682643163 +0200	rebase (pick): Fixed bug when closing application when creating a new Project.
+ba4d192355234cc31bb4ed36659bb5477e297028 515687845acdf788f9f05a7ac91c49533f5ac85c lmlnilse <lmlnilse@stud.ntnu.no> 1682643163 +0200	rebase (pick): Fixed bug, so that you can only add files of .jpg, .jpeg, .img or .gif to newProject or editProject.
+515687845acdf788f9f05a7ac91c49533f5ac85c 515687845acdf788f9f05a7ac91c49533f5ac85c lmlnilse <lmlnilse@stud.ntnu.no> 1682643163 +0200	rebase (finish): returning to refs/heads/bugfix/misc-bugs
+515687845acdf788f9f05a7ac91c49533f5ac85c 9ba31629329d1dfeb9fbc5b3434db763530e3b51 lmlnilse <lmlnilse@stud.ntnu.no> 1682643176 +0200	rebase (start): checkout origin/bugfix/misc-bugs
+9ba31629329d1dfeb9fbc5b3434db763530e3b51 88d0347d3a2086fdbb0b6e44737c31ef01e738aa lmlnilse <lmlnilse@stud.ntnu.no> 1682643176 +0200	rebase (pick): Update .gitlab-ci.yml file
+88d0347d3a2086fdbb0b6e44737c31ef01e738aa 366627d6df1100eb8eda9d280c27bd7a90ccf806 lmlnilse <lmlnilse@stud.ntnu.no> 1682643176 +0200	rebase (pick): Update .gitlab-ci.yml file
+366627d6df1100eb8eda9d280c27bd7a90ccf806 aacd7b0a75e1e3a4f4f2265503d93d634d96bc39 lmlnilse <lmlnilse@stud.ntnu.no> 1682643176 +0200	rebase (pick): Changed project name and version in pom.xml
+aacd7b0a75e1e3a4f4f2265503d93d634d96bc39 d0e0cf9bf33026a3808d014a17ae174df2b99493 lmlnilse <lmlnilse@stud.ntnu.no> 1682643176 +0200	rebase (pick): Update .gitlab-ci.yml file
+d0e0cf9bf33026a3808d014a17ae174df2b99493 d0e0cf9bf33026a3808d014a17ae174df2b99493 lmlnilse <lmlnilse@stud.ntnu.no> 1682643176 +0200	rebase (finish): returning to refs/heads/bugfix/misc-bugs
+d0e0cf9bf33026a3808d014a17ae174df2b99493 bb03e93295ecb93523ddceac6065359f9eabe0b2 lmlnilse <lmlnilse@stud.ntnu.no> 1682643466 +0200	checkout: moving from bugfix/misc-bugs to master
+bb03e93295ecb93523ddceac6065359f9eabe0b2 bad47700b8c58a07aa5e362c6f339e95996cf3fb lmlnilse <lmlnilse@stud.ntnu.no> 1682643497 +0200	merge origin/master: Fast-forward
+bad47700b8c58a07aa5e362c6f339e95996cf3fb 31840ba148294142eaaf0a8753e2350968973fad lmlnilse <lmlnilse@stud.ntnu.no> 1682645012 +0200	commit: Made the No status show up first of the statuses when you create a new project.
+31840ba148294142eaaf0a8753e2350968973fad 52f0453a173f2482dda7e7d96568212335764a04 lmlnilse <lmlnilse@stud.ntnu.no> 1682646003 +0200	commit: Made the yellow color in all projects orange, so white text is more visible on it.
+52f0453a173f2482dda7e7d96568212335764a04 48aa17a64847aadbd9985e8b335c1f69244ced70 lmlnilse <lmlnilse@stud.ntnu.no> 1682674032 +0200	rebase (start): checkout origin/master
+48aa17a64847aadbd9985e8b335c1f69244ced70 9f21b9c39ab23e788ae4bb1b67149c8cc167db27 lmlnilse <lmlnilse@stud.ntnu.no> 1682674032 +0200	rebase (pick): Made the yellow color in all projects orange, so white text is more visible on it.
+9f21b9c39ab23e788ae4bb1b67149c8cc167db27 9f21b9c39ab23e788ae4bb1b67149c8cc167db27 lmlnilse <lmlnilse@stud.ntnu.no> 1682674032 +0200	rebase (finish): returning to refs/heads/master

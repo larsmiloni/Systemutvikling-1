@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 77410360173891ac01f297fa7a3fd307418fe60f lmlnilse <lmlnilse@stud.ntnu.no> 1681828283 +0200	branch: Created from HEAD
+77410360173891ac01f297fa7a3fd307418fe60f 6c667b647a1e459518806a5be9611b1c2d4a2cbd lmlnilse <lmlnilse@stud.ntnu.no> 1681844031 +0200	commit: Added CSS file for dark theme.
+6c667b647a1e459518806a5be9611b1c2d4a2cbd 88ffb8e8c02924fa1476815f48402b4d811396e6 lmlnilse <lmlnilse@stud.ntnu.no> 1681844078 +0200	commit: Added a toggle button to switch between light and dark theme.
+88ffb8e8c02924fa1476815f48402b4d811396e6 6f0b0952eabe0974b6050140e80c7582ea7d15c5 lmlnilse <lmlnilse@stud.ntnu.no> 1681844138 +0200	commit: Added functionality in the controllers to switch between light and dark theme.
+6f0b0952eabe0974b6050140e80c7582ea7d15c5 763146c739134ca79f2d90b65d9266e0e37c14ea lmlnilse <lmlnilse@stud.ntnu.no> 1681904550 +0200	commit: Changed all Text elements to Label, so you can change color of the text when switching to dark mode.
+763146c739134ca79f2d90b65d9266e0e37c14ea 7144d8e485c6e5e35b6af26c60d58008cbe2f129 lmlnilse <lmlnilse@stud.ntnu.no> 1681904643 +0200	commit: Changed all Text elements in the controllers to Label, to match the changes in the fxml files.
+7144d8e485c6e5e35b6af26c60d58008cbe2f129 753bb9909c79f6c7644f3e4938cd0ef32303f621 lmlnilse <lmlnilse@stud.ntnu.no> 1681904678 +0200	commit: Changed dark-theme.css file so dark theme look better.
+753bb9909c79f6c7644f3e4938cd0ef32303f621 516185a6a14cb75d3bbb6d2958d05cca1b1011cc lmlnilse <lmlnilse@stud.ntnu.no> 1681994233 +0200	rebase (finish): refs/heads/84-addition/Make-dark-theme onto baf33983b265521632eb31f136f42fa2f005ff31
+516185a6a14cb75d3bbb6d2958d05cca1b1011cc 7087b2c1211c1e63d509b36889df618a613016cb lmlnilse <lmlnilse@stud.ntnu.no> 1681995063 +0200	rebase (finish): refs/heads/84-addition/Make-dark-theme onto 57e9626c8a4557d7fcb1fae1a18a197136f0d96f
+7087b2c1211c1e63d509b36889df618a613016cb d2579c04c6a3b292a026d331c287660e46b3b972 lmlnilse <lmlnilse@stud.ntnu.no> 1681995996 +0200	commit: Added dark mode to MonthlyOverview GUI.
+d2579c04c6a3b292a026d331c287660e46b3b972 7b010ddffe9057e745bbacb80160c775fd29e7da lmlnilse <lmlnilse@stud.ntnu.no> 1681996035 +0200	merge origin/84-addition/Make-dark-theme: Merge made by the 'ort' strategy.

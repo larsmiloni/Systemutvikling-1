@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 bb03e93295ecb93523ddceac6065359f9eabe0b2 lmlnilse <lmlnilse@stud.ntnu.no> 1682642531 +0200	branch: Created from HEAD
+bb03e93295ecb93523ddceac6065359f9eabe0b2 396024c883a23a3e14bae562227657f3af2cfaa1 lmlnilse <lmlnilse@stud.ntnu.no> 1682642593 +0200	commit: Fixed bug when closing application when creating a new Project.
+396024c883a23a3e14bae562227657f3af2cfaa1 9ba31629329d1dfeb9fbc5b3434db763530e3b51 lmlnilse <lmlnilse@stud.ntnu.no> 1682643136 +0200	commit: Fixed bug, so that you can only add files of .jpg, .jpeg, .img or .gif to newProject or editProject.
+9ba31629329d1dfeb9fbc5b3434db763530e3b51 515687845acdf788f9f05a7ac91c49533f5ac85c lmlnilse <lmlnilse@stud.ntnu.no> 1682643163 +0200	rebase (finish): refs/heads/bugfix/misc-bugs onto 389f7bf6ed76202ec1aeed80de9b4df7aaafb666
+515687845acdf788f9f05a7ac91c49533f5ac85c d0e0cf9bf33026a3808d014a17ae174df2b99493 lmlnilse <lmlnilse@stud.ntnu.no> 1682643176 +0200	rebase (finish): refs/heads/bugfix/misc-bugs onto 9ba31629329d1dfeb9fbc5b3434db763530e3b51

@@ -1,0 +1,26 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@gitlab.stud.idi.ntnu.no:gruppe-21/idatt-1002-2023-21.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "84-addition/Make-dark-theme"]
+	remote = origin
+	merge = refs/heads/84-addition/Make-dark-theme
+[branch "85-addition/Color-code-projects"]
+	remote = origin
+	merge = refs/heads/85-addition/Color-code-projects
+[branch "89-addition/Add-pie-charts-for-income-and-expense"]
+	remote = origin
+	merge = refs/heads/89-addition/Add-pie-charts-for-income-and-expense
+[branch "90-addition/GUI-update"]
+	remote = origin
+	merge = refs/heads/90-addition/GUI-update
+[branch "bugfix/misc-bugs"]
+	remote = origin
+	merge = refs/heads/bugfix/misc-bugs

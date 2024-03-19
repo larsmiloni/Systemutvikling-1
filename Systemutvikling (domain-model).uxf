@@ -1,0 +1,38 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>400</x><y>600</y><w>210</w><h>70</h></coordinates><panel_attributes>_Accounting_
+--
+Type (work or personal)
+Month</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>760</x><y>600</y><w>210</w><h>70</h></coordinates><panel_attributes>_Budget_
+--
+Type (work or personal)
+Month</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>400</x><y>420</y><w>210</w><h>70</h></coordinates><panel_attributes>_AccountingRepository_
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>760</x><y>420</y><w>210</w><h>70</h></coordinates><panel_attributes>_BudgetRepository_
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>580</x><y>90</y><w>210</w><h>70</h></coordinates><panel_attributes>_UserRepository_
+--
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>630</x><y>780</y><w>210</w><h>70</h></coordinates><panel_attributes>_Expencese_
+--
+Category</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>580</x><y>270</y><w>210</w><h>70</h></coordinates><panel_attributes>_User_
+--
+UserID
+Username
+Password</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>290</x><y>780</y><w>210</w><h>70</h></coordinates><panel_attributes>_Income_
+--
+Category</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>680</x><y>150</y><w>50</w><h>140</h></coordinates><panel_attributes>lt=-
+m1=0..n
+m2=1..1
+</panel_attributes><additional_attributes>10;120;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>780</x><y>300</y><w>130</w><h>140</h></coordinates><panel_attributes>lt=-
+m1=1..1
+</panel_attributes><additional_attributes>90;120;90;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>490</x><y>300</y><w>110</w><h>140</h></coordinates><panel_attributes>lt=-
+m1=1..1
+</panel_attributes><additional_attributes>10;120;10;10;90;10</additional_attributes></element><element><id>Relation</id><coordinates><x>490</x><y>480</y><w>50</w><h>140</h></coordinates><panel_attributes>lt=-
+m2=0..n
+</panel_attributes><additional_attributes>10;10;10;120</additional_attributes></element><element><id>Relation</id><coordinates><x>860</x><y>480</y><w>50</w><h>140</h></coordinates><panel_attributes>lt=-
+m2=0..n
+</panel_attributes><additional_attributes>10;10;10;120</additional_attributes></element><element><id>Relation</id><coordinates><x>600</x><y>630</y><w>130</w><h>170</h></coordinates><panel_attributes>lt=-
+m1=0..n
+</panel_attributes><additional_attributes>90;150;90;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>430</x><y>660</y><w>50</w><h>140</h></coordinates><panel_attributes>lt=-
+m2=0..n
+</panel_attributes><additional_attributes>10;10;10;120</additional_attributes></element><element><id>Relation</id><coordinates><x>800</x><y>660</y><w>50</w><h>140</h></coordinates><panel_attributes>lt=-
+m2=0..*
+</panel_attributes><additional_attributes>10;10;10;120</additional_attributes></element></diagram>

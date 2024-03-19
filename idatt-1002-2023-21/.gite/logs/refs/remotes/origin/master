@@ -1,0 +1,51 @@
+97ba2b032f230b9c31b5784e5b30e01f80bc99db 2f10ad57face284a59d0530aa43f9eff7f4abda2 lmlnilse <lmlnilse@stud.ntnu.no> 1678441080 +0100	update by push
+2f10ad57face284a59d0530aa43f9eff7f4abda2 f1e4ca7f4f425ef7fa56b34d9462d0bcf0c65815 lmlnilse <lmlnilse@stud.ntnu.no> 1678447811 +0100	pull --no-stat -v --progress origin master: fast-forward
+f1e4ca7f4f425ef7fa56b34d9462d0bcf0c65815 925c2e5cbb38fd57ab4585840169865dbe1a2ecd lmlnilse <lmlnilse@stud.ntnu.no> 1678448293 +0100	update by push
+925c2e5cbb38fd57ab4585840169865dbe1a2ecd 7c738b72f2b8ee57b5f0b7b7d29cf7b37fc970ef lmlnilse <lmlnilse@stud.ntnu.no> 1678450692 +0100	pull --no-stat -v --progress origin master: fast-forward
+7c738b72f2b8ee57b5f0b7b7d29cf7b37fc970ef 2574a85bc91d9740c3ec534f81c61a2561d25ce6 lmlnilse <lmlnilse@stud.ntnu.no> 1678451431 +0100	pull --no-stat -v --progress origin master: fast-forward
+2574a85bc91d9740c3ec534f81c61a2561d25ce6 65cf5c9eda36bb41e1168361f7992b793191ff9a lmlnilse <lmlnilse@stud.ntnu.no> 1678452609 +0100	pull --no-stat -v --progress origin master: fast-forward
+65cf5c9eda36bb41e1168361f7992b793191ff9a 3e50d838edbebdb104ec94e5b65308c1b1252bd3 lmlnilse <lmlnilse@stud.ntnu.no> 1678453683 +0100	pull --no-stat -v --progress origin master: fast-forward
+3e50d838edbebdb104ec94e5b65308c1b1252bd3 144083b4abe394ff3418501a40ce4de8a1bf259c lmlnilse <lmlnilse@stud.ntnu.no> 1678635036 +0100	pull --no-stat -v --progress origin master: fast-forward
+144083b4abe394ff3418501a40ce4de8a1bf259c e6474f9eeda489565215654fade105a54082cd97 lmlnilse <lmlnilse@stud.ntnu.no> 1678791665 +0100	pull --no-stat -v --progress origin master: fast-forward
+e6474f9eeda489565215654fade105a54082cd97 decda58e419cbcf4931f2a4c794441c529f95446 lmlnilse <lmlnilse@stud.ntnu.no> 1678884254 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+decda58e419cbcf4931f2a4c794441c529f95446 a2ed3aff17a7394ea831a5e5f103c9c99fc22c38 lmlnilse <lmlnilse@stud.ntnu.no> 1678887908 +0100	fetch: fast-forward
+a2ed3aff17a7394ea831a5e5f103c9c99fc22c38 4b73340a544bcc642942aab3115c0c50bab90e0c lmlnilse <lmlnilse@stud.ntnu.no> 1679320444 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+4b73340a544bcc642942aab3115c0c50bab90e0c 0c2c9c49ac1927af39d41dbb49871aa5d88ac6b9 lmlnilse <lmlnilse@stud.ntnu.no> 1679477464 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+0c2c9c49ac1927af39d41dbb49871aa5d88ac6b9 d78ca11033eb283fe9989fa8ce21d8d1148e9ba9 lmlnilse <lmlnilse@stud.ntnu.no> 1679479117 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+d78ca11033eb283fe9989fa8ce21d8d1148e9ba9 a73090b3796a7c1b0446e0477b240b077b376ce3 lmlnilse <lmlnilse@stud.ntnu.no> 1679485509 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+a73090b3796a7c1b0446e0477b240b077b376ce3 17c0ddc2abe70caf28158ec99616152367a0b5b7 lmlnilse <lmlnilse@stud.ntnu.no> 1679488181 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+17c0ddc2abe70caf28158ec99616152367a0b5b7 3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 lmlnilse <lmlnilse@stud.ntnu.no> 1679490075 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+3cffeaf4aff8d6cbf565e08c20f9f3c44759cb06 723e0b8422cf5a5ace3f4034f47e7fe927c67a3c lmlnilse <lmlnilse@stud.ntnu.no> 1679490952 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+723e0b8422cf5a5ace3f4034f47e7fe927c67a3c 7eb1a6db5e6f8c14f624860bd63b04935e3892af lmlnilse <lmlnilse@stud.ntnu.no> 1679650434 +0100	fetch: fast-forward
+7eb1a6db5e6f8c14f624860bd63b04935e3892af 269fb980ff6aaae7c7bb123f680c4d189aa56e57 lmlnilse <lmlnilse@stud.ntnu.no> 1679652441 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+269fb980ff6aaae7c7bb123f680c4d189aa56e57 bb268c66613ec265a430414a0f82d545de6f8a83 lmlnilse <lmlnilse@stud.ntnu.no> 1679658365 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+bb268c66613ec265a430414a0f82d545de6f8a83 5de18776ba92c17b651abf2345ccbe86bbc43aec lmlnilse <lmlnilse@stud.ntnu.no> 1679664784 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+5de18776ba92c17b651abf2345ccbe86bbc43aec f2d2bf1f914c211bd29107a3b3fcee942f0bbf7c lmlnilse <lmlnilse@stud.ntnu.no> 1679669728 +0100	fetch: fast-forward
+f2d2bf1f914c211bd29107a3b3fcee942f0bbf7c 1bfe51835b120de8d873928073145bb2b70fd21b lmlnilse <lmlnilse@stud.ntnu.no> 1679676101 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+1bfe51835b120de8d873928073145bb2b70fd21b 8ca29a56e8eed50490133423e9c9f7f5b69a5041 lmlnilse <lmlnilse@stud.ntnu.no> 1679750928 +0100	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+8ca29a56e8eed50490133423e9c9f7f5b69a5041 1c4732d2d6e89a38938cab7ececfa95ba066cffd lmlnilse <lmlnilse@stud.ntnu.no> 1681458806 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+1c4732d2d6e89a38938cab7ececfa95ba066cffd a88a86c75a64d112d4234afd96933ddb9a9e0fc2 lmlnilse <lmlnilse@stud.ntnu.no> 1681722708 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+a88a86c75a64d112d4234afd96933ddb9a9e0fc2 800b9bde849bdae636e5d4f74868c48ad9ee12c5 lmlnilse <lmlnilse@stud.ntnu.no> 1681723790 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+800b9bde849bdae636e5d4f74868c48ad9ee12c5 e04ae46f2506689b78e48e660a200c56c8dd3901 lmlnilse <lmlnilse@stud.ntnu.no> 1681724424 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+e04ae46f2506689b78e48e660a200c56c8dd3901 00252c1d3c341eef7fa67ebca196624b7ff03e54 lmlnilse <lmlnilse@stud.ntnu.no> 1681724570 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+00252c1d3c341eef7fa67ebca196624b7ff03e54 77410360173891ac01f297fa7a3fd307418fe60f lmlnilse <lmlnilse@stud.ntnu.no> 1681729399 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+77410360173891ac01f297fa7a3fd307418fe60f baf33983b265521632eb31f136f42fa2f005ff31 lmlnilse <lmlnilse@stud.ntnu.no> 1681994232 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+baf33983b265521632eb31f136f42fa2f005ff31 57e9626c8a4557d7fcb1fae1a18a197136f0d96f lmlnilse <lmlnilse@stud.ntnu.no> 1681995062 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+57e9626c8a4557d7fcb1fae1a18a197136f0d96f 44d578b524f907af8f21ce3498d0c043ff4f2870 lmlnilse <lmlnilse@stud.ntnu.no> 1681996299 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+44d578b524f907af8f21ce3498d0c043ff4f2870 e6e1c6861bc01101599b6d150ebc06fd0fbd0b53 lmlnilse <lmlnilse@stud.ntnu.no> 1682180789 +0200	fetch: fast-forward
+e6e1c6861bc01101599b6d150ebc06fd0fbd0b53 76e4393167ebbeb7cd62c0f4410db67c018542e6 lmlnilse <lmlnilse@stud.ntnu.no> 1682277547 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+76e4393167ebbeb7cd62c0f4410db67c018542e6 0714dbacb8faac74da16bc71353f258bf78d3e58 lmlnilse <lmlnilse@stud.ntnu.no> 1682344930 +0200	fetch: fast-forward
+0714dbacb8faac74da16bc71353f258bf78d3e58 0f183e9d4ca074d980128946523cb9393ac6aed3 lmlnilse <lmlnilse@stud.ntnu.no> 1682425694 +0200	fetch: fast-forward
+0f183e9d4ca074d980128946523cb9393ac6aed3 c000642dc82e5f2278e780d9629506711c84f4eb lmlnilse <lmlnilse@stud.ntnu.no> 1682431767 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+c000642dc82e5f2278e780d9629506711c84f4eb 4a717b3c148ec277cb943f64525c0779aba1bb05 lmlnilse <lmlnilse@stud.ntnu.no> 1682442301 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+4a717b3c148ec277cb943f64525c0779aba1bb05 fe2d4b64b86ad50b7b600bc2ec3d58830efc09a7 lmlnilse <lmlnilse@stud.ntnu.no> 1682510390 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+fe2d4b64b86ad50b7b600bc2ec3d58830efc09a7 85708cf30ead144d68dd8943a3ce0f534c9c38d1 lmlnilse <lmlnilse@stud.ntnu.no> 1682512063 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+85708cf30ead144d68dd8943a3ce0f534c9c38d1 48b6591b616fe0da31321268f63661c5c8f3f47f lmlnilse <lmlnilse@stud.ntnu.no> 1682532005 +0200	fetch: fast-forward
+48b6591b616fe0da31321268f63661c5c8f3f47f 65f94cc6981d2f8fd5903740891c581bb9bf509a lmlnilse <lmlnilse@stud.ntnu.no> 1682532463 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+65f94cc6981d2f8fd5903740891c581bb9bf509a 3cd0134f88968aad1584fe8439e822f343832a91 lmlnilse <lmlnilse@stud.ntnu.no> 1682533337 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+3cd0134f88968aad1584fe8439e822f343832a91 f411176b636734c77cbe2f7194557569125febd1 lmlnilse <lmlnilse@stud.ntnu.no> 1682536393 +0200	fetch: fast-forward
+f411176b636734c77cbe2f7194557569125febd1 bb03e93295ecb93523ddceac6065359f9eabe0b2 lmlnilse <lmlnilse@stud.ntnu.no> 1682611745 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+bb03e93295ecb93523ddceac6065359f9eabe0b2 389f7bf6ed76202ec1aeed80de9b4df7aaafb666 lmlnilse <lmlnilse@stud.ntnu.no> 1682614739 +0200	fetch: fast-forward
+389f7bf6ed76202ec1aeed80de9b4df7aaafb666 bad47700b8c58a07aa5e362c6f339e95996cf3fb lmlnilse <lmlnilse@stud.ntnu.no> 1682643497 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
+bad47700b8c58a07aa5e362c6f339e95996cf3fb 31840ba148294142eaaf0a8753e2350968973fad lmlnilse <lmlnilse@stud.ntnu.no> 1682645019 +0200	update by push
+31840ba148294142eaaf0a8753e2350968973fad 48aa17a64847aadbd9985e8b335c1f69244ced70 lmlnilse <lmlnilse@stud.ntnu.no> 1682674032 +0200	fetch origin --recurse-submodules=no --progress --prune: fast-forward
